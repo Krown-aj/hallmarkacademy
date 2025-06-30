@@ -12,6 +12,7 @@
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@prisma/client": "^6.6.0",
+    "@types/bcryptjs": "^2.4.6",
     "@types/react-big-calendar": "^1.16.1",
     "bcryptjs": "^3.0.2",
     "chart.js": "^4.4.9",
